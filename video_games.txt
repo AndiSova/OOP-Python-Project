@@ -1,0 +1,4 @@
+"{\"name\": \"boi\", \"release_date\": 2019, \"genre\": \"war\", \"price\": 90}"
+"{\"name\": \"a\", \"release_date\": 2, \"genre\": \"a\", \"price\": 2}"
+"{\"name\": \"tlou\", \"release_date\": 2013, \"genre\": \"story_rich\", \"price\": 59}"
+"{\"name\": \"1\", \"release_date\": 2, \"genre\": \"1\", \"price\": 2}"
